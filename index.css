@@ -1,0 +1,22 @@
+.who{
+    background: pink;
+    margin-top: 0px;
+    font-size: 60px;
+    padding: 100px 100px;
+    margin-top: -60px;
+
+}
+
+.name{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+button{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+
+
+
